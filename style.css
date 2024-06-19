@@ -1,0 +1,14 @@
+@import url("styles/hearder.css");
+@import url("styles/banner.css");
+@import url("styles/carrosel.css");
+@import url("styles/topicos.css");
+@import url("styles/contatos.css");
+@import url("styles/rodapé.css");
+
+
+:root {
+   --cor-de-fundo:#EBECEE;
+   --branco: #FFFFFF;
+   --laranja: #EB9B00;
+
+}
